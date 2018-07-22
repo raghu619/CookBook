@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CookBook</string>
+    <string name="loading">Loading....</string>
+    <string name="space">\u0020</string>
+    <string name="videos">videos</string>
+
+    <string name="colon">:</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="step">Step</string>
+    <string name="no_video_found">No video link found</string>
+
+    <string name="swipe_to_see_steps">Swipe left, see steps</string>
+
+    <string name="nutella_pie">Nutella Pie</string>
+    <string name="brownies">Brownies</string>
+    <string name="yellowcake">Yellow Cake</string>
+    <string name="cheesecake">Cheesecake</string>
+    <string name="no_recipe_selected">Click to select recipe</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="welcome">Welcome to Cook Book</string>
+
+
+    <string name="somethingGoneWrong">Something gone wrong!</string>
+    <string name="noDataFound">No data found, Try again later</string>
+    <string name="error_network">Cannot connect to Internet.Please check your connection!</string>
+    <string name="error_server">The server could not be found. Please try again after some time!</string>
+    <string name="error_parse">Parsing error! Please try again after some time!</string>
+    <string name="error_auth">Cannot connect to Internet.Please check your connection!</string>
+    <string name="error_timeout">Connection TimeOut!Please check your internet connection.</string>
+
+</resources>
